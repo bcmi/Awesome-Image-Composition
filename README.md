@@ -34,6 +34,9 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 + Fangneng Zhan, Shijian Lu, Changgong Zhang, Feiying Ma, Xuansong Xie: "*Adversarial Image Composition with Auxiliary Illumination.*" ACCV (2020) [[pdf]](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhan_Adversarial_Image_Composition_with_Auxiliary_Illumination_ACCV_2020_paper.pdf).
 
++ Yichen Sheng, Jianming Zhang, Bedrich Benes: "*SSN: Soft Shadow Network for Image Compositing.*" arXiv (2020) [[arXiv]](https://arxiv.org/pdf/2007.08211.pdf).
+       
+
 
 
 

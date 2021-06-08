@@ -39,15 +39,15 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 + Samaneh Azadi, Deepak Pathak, Sayna Ebrahimi, Trevor Darrell: "*Compositional GAN: Learning Image-Conditional Binary Composition*" International Journal of Computer Vision (2020) [[arXiv]](https://arxiv.org/abs/1807.07560) [[code]](https://github.com/azadis/CompositionalGAN)
 
-+ Song{-}Hai Zhang, Zhengping Zhou, Bin Liu, Xi Dong, Peter Hall: "*What and Where: A Context-based Recommendation System for Object Insertion*" Computational Visual Media (2020) [[arXiv]](https://arxiv.org/abs/1811.09783)
++ Song-Hai Zhang, Zhengping Zhou, Bin Liu, Xi Dong, Peter Hall: "*What and Where: A Context-based Recommendation System for Object Insertion*" Computational Visual Media (2020) [[arXiv]](https://arxiv.org/abs/1811.09783)
 
 + Shashank Tripathi, Siddhartha Chandra, Amit Agrawal, Ambrish Tyagi, James M. Rehg, Visesh Chari: "*Learning to Generate Synthetic Data via Compositing*" CVPR (2019) [[arXiv]](https://arxiv.org/abs/1904.05475)
 
 + Haoshu Fang, Jianhua Sun, Runzhong Wang, Minghao Gou, Yonglu Li, Cewu Lu: "*InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting*" ICCV (2019) [[arXiv]](https://arxiv.org/abs/1908.07801) [[code]](https://github.com/GothicAi/Instaboost)
 
-+ Chen{-}Hsuan Lin, Ersin Yumer, Oliver Wang, Eli Shechtman, Simon Lucey: "*ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing*" CVPR (2018) [[arXiv]](https://arxiv.org/abs/1803.01837) [[code]](https://github.com/chenhsuanlin/spatial-transformer-GAN)
++ Chen-Hsuan Lin, Ersin Yumer, Oliver Wang, Eli Shechtman, Simon Lucey: "*ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing*" CVPR (2018) [[arXiv]](https://arxiv.org/abs/1803.01837) [[code]](https://github.com/chenhsuanlin/spatial-transformer-GAN)
 
-+ Donghoon Lee, Sifei Liu, Jinwei Gu, Ming{-}Yu Liu, Ming{-}Hsuan Yang, Jan Kautz: "*Context-Aware Synthesis and Placement of Object Instances*" NeurIPS (2018) [[arXiv]](https://arxiv.org/abs/1812.02350) [[code]](https://github.com/NVlabs/Instance_Insertion)
++ Donghoon Lee, Sifei Liu, Jinwei Gu, Ming-Yu Liu, Ming-Hsuan Yang, Jan Kautz: "*Context-Aware Synthesis and Placement of Object Instances*" NeurIPS (2018) [[arXiv]](https://arxiv.org/abs/1812.02350) [[code]](https://github.com/NVlabs/Instance_Insertion)
 
 + Fuwen Tan, Crispin Bernier, Benjamin Cohen, Vicente Ordonez, Connelly Barnes: "*Where and Who? Automatic Semantic-Aware Person Composition*" WACV (2018) [[arXiv]](https://arxiv.org/abs/1706.01021)[[code]](https://github.com/fwtan/who_where)
 

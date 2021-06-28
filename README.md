@@ -10,7 +10,6 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + [Papers](#Papers)
 + [Datasets](#Datasets)
 + [Other Resources](#Other-resources)
-+ [Related Topics](#Related-topics)
 
 
 ## Papers
@@ -20,6 +19,8 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Lingzhi Zhang, Tarmily Wen, Jianbo Shi: "*Deep Image Blending.*" WACV (2020) [[pdf]](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Deep_Image_Blending_WACV_2020_paper.pdf) [[arXiv]](https://arxiv.org/pdf/1910.11495.pdf) [[code]](https://github.com/owenzlz/DeepImageBlending)
 
 #### Image harmonization
++ Jun Ling, Han Xue, Li Song, Rong Xie, Xiao Gu: "*Region-Aware Adaptive Instance Normalization for Image Harmonization.*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ling_Region-Aware_Adaptive_Instance_Normalization_for_Image_Harmonization_CVPR_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Ling_Region-Aware_Adaptive_Instance_CVPR_2021_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2106.02853) [[code]](https://github.com/junleen/RainNet).
++ Zonghui Guo, Haiyong Zheng, Yufeng Jiang, Zhaorui Gu, Bing Zheng: "*Intrinsic Image Harmonization.*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Intrinsic_Image_Harmonization_CVPR_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Guo_Intrinsic_Image_Harmonization_CVPR_2021_supplemental.pdf) [[code]](https://github.com/zhenglab/IntrinsicHarmony).
 + Wenyan Cong, Li Niu, Jianfu Zhang,  Jing Liang, Liqing Zhang: "*BargainNet: Background-Guided Domain Translation for Image Harmonization.*" ICME (2021) [[arXiv]](https://arxiv.org/abs/2009.09169) [[code]](https://github.com/bcmi/BargainNet).
 + Konstantin Sofiiuk, Polina Popenova, Anton Konushin: "*Foreground-aware Semantic Representations for Image Harmonization.*" WACV (2021) [[pdf]](https://openaccess.thecvf.com/content/WACV2021/papers/Sofiiuk_Foreground-Aware_Semantic_Representations_for_Image_Harmonization_WACV_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/WACV2021/supplemental/Sofiiuk_Foreground-Aware_Semantic_Representations_WACV_2021_supplemental.zip)  [[arXiv]](https://arxiv.org/abs/2006.00809) [[code]](https://github.com/saic-vul/image_harmonization)
 + Guoqing Hao, Satoshi Iizuka, Kazuhiro Fukui: "*Image Harmonization with Attention-based Deep Feature Modulation*." BMVC (2020) [[pdf]](https://www.bmvc2020-conference.com/assets/papers/0121.pdf) [[supp]](https://www.bmvc2020-conference.com/assets/supp/0121_supp.zip) [[code]](https://github.com/Dominoer/bmvc2020_image_harmonization)
@@ -28,9 +29,9 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Yi-Hsuan Tsai, Xiaohui Shen, Zhe Lin, Kalyan Sunkavalli, Xin Lu, Ming-Hsuan Yang: "*Deep Image Harmonization.*" CVPR (2017) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tsai_Deep_Image_Harmonization_CVPR_2017_paper.pdf) [[supp]](http://vllab.ucmerced.edu/ytsai/CVPR17/cvpr17_harmonization_supp.pdf) [[arXiv]](https://arxiv.org/abs/1703.00069) [[code]](https://github.com/wasidennis/DeepHarmonization)
 
 #### Shadow generation
-+ Daquan Liu, Chengjiang  Long, Hongpan Zhang, Hanning Yu, Xinzhi  Dong, Chunxia Xiao: "*Arshadowgan: Shadow generative adversarial network for augmented reality in single light scenes.*" CVPR (2020) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_ARShadowGAN_Shadow_Generative_Adversarial_Network_for_Augmented_Reality_in_Single_CVPR_2020_paper.pdf) [[code]](https://github.com/ldq9526/ARShadowGAN).
++ Daquan Liu, Chengjiang  Long, Hongpan Zhang, Hanning Yu, Xinzhi  Dong, Chunxia Xiao: "*ARshadowGAN: Shadow generative adversarial network for augmented reality in single light scenes.*" CVPR (2020) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_ARShadowGAN_Shadow_Generative_Adversarial_Network_for_Augmented_Reality_in_Single_CVPR_2020_paper.pdf) [[code]](https://github.com/ldq9526/ARShadowGAN).
 
-+ Shuyang Zhang, Runze Liang, Miao Wang: "*Shadowgan: Shadow synthesis for virtual objects with conditional adversarial networks.*" Computational Visual Media (2019) [[pdf]](https://link.springer.com/content/pdf/10.1007/s41095-019-0136-1.pdf).
++ Shuyang Zhang, Runze Liang, Miao Wang: "*ShadowGAN: Shadow synthesis for virtual objects with conditional adversarial networks.*" Computational Visual Media (2019) [[pdf]](https://link.springer.com/content/pdf/10.1007/s41095-019-0136-1.pdf).
 
 + Fangneng Zhan, Shijian Lu, Changgong Zhang, Feiying Ma, Xuansong Xie: "*Adversarial Image Composition with Auxiliary Illumination.*" ACCV (2020) [[pdf]](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhan_Adversarial_Image_Composition_with_Auxiliary_Illumination_ACCV_2020_paper.pdf).
 
@@ -62,15 +63,8 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + **GMSDataset**: It contains 183 images with image resolution of 1940*1440. It consists of 16 different objects and for each object, one source image and 11 target images in different background scenes and illumination conditions are captured. [[paper]]() [[link]](https://pan.baidu.com/s/141bLd3kjw8I4L7vUhYiEnQ) (access code: ekn2)
 + **RHHarmony**: A rendered image harmonization dataset, which contains 15000 ground-truth rendered images and has the potential to generate 135000 composite rendered images. [[link]](https://github.com/bcmi/Rendered_Image_Harmonization_Datasets)
 + **Shadow-AR:**  It contains 3,000 quintuples,  Each quintuple consists of 5 images 640×480 resolution: a synthetic image without the virtual object shadow and its corresponding image containing the virtual object shadow, a mask of the virtual object, a labeled real-world shadow matting and its corresponding labeled occluder. [[link]](https://github.com/ldq9526/ARShadowGAN)
-+ **SUNCG dataset**:  It consists of 45,622 indoor scenes with over 5M 3D object instances from 37 categories. [[link]](https://sscnet.cs.princeton.edu/)
-+ **Shapenet dataset**: It consists of two subsets: ShapeNetCore and ShapeNetSem. ShapeNetCore is a subset of the full ShapeNet dataset with single clean 3D models and manually verified category and alignment annotations, covering 55 common object categories with about 51,300 unique 3D models. ShapeNetSem is a smaller, more densely annotated subset consisting of 12,000 models spread over a broader set of 270 categories.[[link]](https://shapenet.org/)
-+ **CelebA dataset**: It consists of 10,177 number of identities, 202,599 number of face images, and 5 landmark locations, 40 binary attributes annotations per image. [[link]](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
-## Related topics
-
-#### Video harmonization
-+ Haozhi Huang, Senzhe Xu, Junxiong Cai, Wei Liu, Shimin Hu: "*Temporally Coherent Video Harmonization Using Adversarial Networks.*" IEEE Trans. Image Process. 29: 214-224 (2020) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8765343) [[arXiv]](https://arxiv.org/abs/1809.01372)
 
 ## Other resources
 
-+ [Awesome-ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
++ [Awesome-Image-Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization)

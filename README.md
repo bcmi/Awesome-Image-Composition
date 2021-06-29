@@ -7,10 +7,13 @@ A curated list of resources including papers, datasets, and relevant links perta
 Contributions are welcome.  If you wish to contribute, feel free to send a pull request. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a pull request.
 
 ## Table of Contents
++ [Surveys](#Surveys)
 + [Papers](#Papers)
 + [Datasets](#Datasets)
 + [Other Resources](#Other-resources)
 
+## Surveys
++ [Making Images Real Again: A Comprehensive Survey on Deep Image Composition](https://arxiv.org/pdf/2106.14490.pdf)
 
 ## Papers
 

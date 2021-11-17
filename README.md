@@ -7,10 +7,14 @@ A curated list of resources including papers, datasets, and relevant links perta
 Contributions are welcome.  If you wish to contribute, feel free to send a pull request. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a pull request.
 
 ## Table of Contents
++ [Online Demo](#Online-demo)
 + [Surveys](#Surveys)
 + [Papers](#Papers)
 + [Datasets](#Datasets)
-+ [Other Resources](#Other-resources)
+
+## Online Demo
+
+Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) for image composition and have fun!
 
 ## Surveys
 + Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Making Images Real Again: A Comprehensive Survey on Deep Image Composition.*" arXiv preprint arXiv:2106.14490 (2021). [[arXiv]](https://arxiv.org/pdf/2106.14490.pdf)

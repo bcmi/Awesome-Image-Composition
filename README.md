@@ -30,6 +30,7 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
   &emsp;  [Awesome-Image-Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization)
  
 #### Shadow generation
++ Yan Hong, Li Niu, Jianfu Zhang: "*Shadow Generation for Composite Image in Real-world Scenes.*" AAAI (2022) [[arXiv]](https://arxiv.org/pdf/2104.10338v1.pdf) [[dataset]](https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBA)
 + Daquan Liu, Chengjiang  Long, Hongpan Zhang, Hanning Yu, Xinzhi  Dong, Chunxia Xiao: "*ARshadowGAN: Shadow generative adversarial network for augmented reality in single light scenes.*" CVPR (2020) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_ARShadowGAN_Shadow_Generative_Adversarial_Network_for_Augmented_Reality_in_Single_CVPR_2020_paper.pdf) [[code]](https://github.com/ldq9526/ARShadowGAN)
 
 + Fangneng Zhan, Shijian Lu, Changgong Zhang, Feiying Ma, Xuansong Xie: "*Adversarial Image Composition with Auxiliary Illumination.*" ACCV (2020) [[pdf]](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhan_Adversarial_Image_Composition_with_Auxiliary_Illumination_ACCV_2020_paper.pdf)

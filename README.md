@@ -61,6 +61,10 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 + Fangneng Zhan, Jiaxing Huang, Shijian Lu, "*Hierarchy Composition GAN for High-fidelity Image Synthesis.*" Transactions on cybernetics (2021) [[arXiv]](https://arxiv.org/pdf/1905.04693.pdf)
 + Samaneh Azadi, Deepak Pathak, Sayna Ebrahimi, Trevor Darrell: "*Compositional GAN: Learning Image-Conditional Binary Composition.*" IJCV (2020) [[arXiv]](https://arxiv.org/pdf/1807.07560.pdf) [[code]](https://github.com/azadis/CompositionalGAN)
 
+#### 7. Resolution/Sharpness/Noise Discrepancy
+
++ Jizhizi Li, Jing Zhang, Stephen J.Maybank, Dacheng Tao, "*Bridging Composite and Real: Towards End-to-End Deep Image Matting.*" IJCV (2021) [[pdf]](https://link.springer.com/content/pdf/10.1007/s11263-021-01541-0.pdf) [[code]](https://github.com/JizhiziLi/GFM)
+
 
 ## Datasets
 + Datasets for image harmonization [[link]](https://github.com/bcmi/Awesome-Image-Harmonization#Datasets)

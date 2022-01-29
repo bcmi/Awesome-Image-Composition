@@ -14,7 +14,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ## Online Demo
 
-Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) for image composition and have fun!
+Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) for image composition and have fun! ![hot](https://bcmi.sjtu.edu.cn/~niuli/images/fire.png)
 
 ## Surveys
 + Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Making Images Real Again: A Comprehensive Survey on Deep Image Composition.*" arXiv preprint arXiv:2106.14490 (2021). [[arXiv]](https://arxiv.org/pdf/2106.14490.pdf)
@@ -38,9 +38,9 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 + Shengjie Ma, Qian Shen, Qiming Hou, Zhong Ren, Kun Zhou: "*Neural Compositing for Real-time Augmented Reality Rendering in Low-frequency Lighting Environments.*" Science China Information Sciences (2021) [[pdf]](http://kunzhou.net/2021/NeuralComposite.pdf)
 
-#### 5. Object Placement & Spatial Transformation
+#### 5. Object Placement 
 
-##### 5.1. Predict transformation parameters given a pair of foreground and background
+##### 5.1. Instance-specific: predict transformation parameters given a pair of foreground and background
 
 + Lingzhi Zhang, Tarmily Wen, Jie Min, Jiancong Wang, David Han, Jianbo Shi: "*Learning Object Placement by Inpainting for Compositional Data Augmentation.*" ECCV (2020) [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580562.pdf)
 
@@ -48,7 +48,7 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 + Chen-Hsuan Lin, Ersin Yumer, Oliver Wang, Eli Shechtman, Simon Lucey: "*ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing.*" CVPR (2018) [[arXiv]](https://arxiv.org/pdf/1803.01837.pdf) [[code]](https://github.com/chenhsuanlin/spatial-transformer-GAN)
 
-##### 5.2. Predict bounding boxes for certain categories given a background
+##### 5.2. Category-specific: predict bounding boxes for certain categories given a background
 
 + Anna Volokitin, Igor Susmelj, Eirikur Agustsson, Luc Van Gool, Radu Timofte: "*Efficiently Detecting Plausible Locations for Object Placement Using Masked Convolutions.*" ECCV workshop (2020) [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-66823-5_15)
 

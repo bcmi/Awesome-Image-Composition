@@ -54,21 +54,32 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 + Song-Hai Zhang, Zhengping Zhou, Bin Liu, Xi Dong, Peter Hall: "*What and Where: A Context-based Recommendation System for Object Insertion.*" Computational Visual Media (2020) [[arXiv]](https://arxiv.org/pdf/1811.09783.pdf)
 
++ Donghoon Lee, Sifei Liu, Jinwei Gu, Ming-Yu Liu, Ming-Hsuan Yang, Jan Kautz: "*Context-Aware Synthesis and Placement of Object Instances.*" NeurIPS (2018) [[pdf]](https://proceedings.neurips.cc/paper/2018/file/c6969ae30d99f73951cb976b88a457af-Paper.pdf)
+
 + Fuwen Tan, Crispin Bernier, Benjamin Cohen, Vicente Ordonez, Connelly Barnes: "*Where and Who? Automatic Semantic-Aware Person Composition.*" WACV (2018) [[arXiv]](https://arxiv.org/pdf/1706.01021.pdf)[[code]](https://github.com/fwtan/who_where)
 
 
 #### 6. Occlusion
-+ Fangneng Zhan, Jiaxing Huang, Shijian Lu, "*Hierarchy Composition GAN for High-fidelity Image Synthesis.*" Transactions on cybernetics (2021) [[arXiv]](https://arxiv.org/pdf/1905.04693.pdf)
++ Fangneng Zhan, Jiaxing Huang, Shijian Lu: "*Hierarchy Composition GAN for High-fidelity Image Synthesis.*" Transactions on cybernetics (2021) [[arXiv]](https://arxiv.org/pdf/1905.04693.pdf)
 + Samaneh Azadi, Deepak Pathak, Sayna Ebrahimi, Trevor Darrell: "*Compositional GAN: Learning Image-Conditional Binary Composition.*" IJCV (2020) [[arXiv]](https://arxiv.org/pdf/1807.07560.pdf) [[code]](https://github.com/azadis/CompositionalGAN)
 
 #### 7. Resolution/Sharpness/Noise Discrepancy
 
-+ Jizhizi Li, Jing Zhang, Stephen J.Maybank, Dacheng Tao, "*Bridging Composite and Real: Towards End-to-End Deep Image Matting.*" IJCV (2021) [[pdf]](https://link.springer.com/content/pdf/10.1007/s11263-021-01541-0.pdf) [[code]](https://github.com/JizhiziLi/GFM)
++ Jizhizi Li, Jing Zhang, Stephen J.Maybank, Dacheng Tao: "*Bridging Composite and Real: Towards End-to-End Deep Image Matting.*" IJCV (2021) [[pdf]](https://link.springer.com/content/pdf/10.1007/s11263-021-01541-0.pdf) [[code]](https://github.com/JizhiziLi/GFM)
 
+#### 8. Object Selection
+
++ Sijie Zhu, Zhe Lin, Scott Cohen, Jason Kuen, Zhifei Zhang, Chen Chen: "*GALA: Toward Geometry-and-Lighting-Aware Object Search for Compositing.*" arXiv preprint arXiv:2204.00125 (2022) [[arXiv]](https://arxiv.org/pdf/2204.00125.pdf)
++ Zongze Wu, Dani Lischinski, Eli Shechtman: "*Fine-grained Foreground Retrieval via Teacher-Student Learning.*" WACV (2021) [[pdf]](https://openaccess.thecvf.com/content/WACV2021/papers/Wu_Fine-Grained_Foreground_Retrieval_via_Teacher-Student_Learning_WACV_2021_paper.pdf)
++ Boren Li, Po-Yu Zhuang, Jian Gu, Mingyang Li, Ping Tan: "*Interpretable Foreground Object Search As Knowledge Distillation.*" ECCV (2020) [[arXiv]](https://arxiv.org/pdf/2007.09867.pdf)
++ Yinan Zhao, Brian Price, Scott Cohen, Danna Gurari: "*Unconstrained foreground object search.*" ICCV (2019) [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Unconstrained_Foreground_Object_Search_ICCV_2019_paper.pdf)
++ Hengshuang Zhao, Xiaohui Shen, Zhe Lin, Kalyan Sunkavalli, Brian Price, Jiaya Jia: "*Compositing-aware image search.*" ECCV (2018) [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hengshuang_Zhao_Compositing-aware_Image_Search_ECCV_2018_paper.pdf)
 
 ## Datasets
 + Datasets for image harmonization [[link]](https://github.com/bcmi/Awesome-Image-Harmonization#Datasets)
 + Datasets for object shadow generation [[link]](https://github.com/bcmi/Awesome-Object-Shadow-Generation#Datasets)
-+ **OPA** (object placement): It contains 62,074 training images and 11,396 test images, in which the foregrounds/backgrounds in training set and test set have no overlap. The training (resp., test) set contains 21,351 (resp.,3,566) positive samples and 40,724 (resp., 7,830) negative samples.  [[pdf]](https://arxiv.org/pdf/2107.01889.pdf) [[link]](https://github.com/bcmi/Object-Placement-Assessment-Dataset-OPA)
++ Datasets for object placement
+  
+  + **OPA**: It contains 62,074 training images and 11,396 test images, in which the foregrounds/backgrounds in training set and test set have no overlap. The training (resp., test) set contains 21,351 (resp.,3,566) positive samples and 40,724 (resp., 7,830) negative samples.  [[pdf]](https://arxiv.org/pdf/2107.01889.pdf) [[link]](https://github.com/bcmi/Object-Placement-Assessment-Dataset-OPA)
 
 

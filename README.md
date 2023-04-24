@@ -25,7 +25,7 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 + He Zhang, Jianming Zhang, Federico Perazzi, Zhe Lin, Vishal M. Patel: "*Deep Image Compositing.*" WACV (2021) [[pdf]](https://arxiv.org/pdf/2011.02146.pdf)
 + Lingzhi Zhang, Tarmily Wen, Jianbo Shi: "*Deep Image Blending.*" WACV (2020) [[pdf]](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Deep_Image_Blending_WACV_2020_paper.pdf) [[arXiv]](https://arxiv.org/pdf/1910.11495.pdf) [[code]](https://github.com/owenzlz/DeepImageBlending)
 + Huikai Wu, Shuai Zheng, Junge Zhang, Kaiqi Huang: "*GP-GAN: Towards Realistic High-Resolution Image Blending.*" ACM MM (2019) [[arXiv]](https://arxiv.org/pdf/1703.07195.pdf) [[code]](https://github.com/wuhuikai/GP-GAN)
-+  Yazhou Xing, Yu Li, Xintao Wang, Ye Zhu, Qifeng Chen: "*Composite photograph harmonization with complete background cues.*" ACM MM (2022) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548031)
++  Yazhou Xing, Yu Li, Xintao Wang, Ye Zhu, Qifeng Chen: "*Composite photograph harmonization with complete background cues.*" ACM MM (2022) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548031) [[code]](https://github.com/bcmi/Learnable_Image_Blending)
 
 
 #### 2. Image Harmonization

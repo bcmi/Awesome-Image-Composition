@@ -22,11 +22,7 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 ## Papers
 
 #### 1. Image Blending
-+ He Zhang, Jianming Zhang, Federico Perazzi, Zhe Lin, Vishal M. Patel: "*Deep Image Compositing.*" WACV (2021) [[pdf]](https://arxiv.org/pdf/2011.02146.pdf)
-+ Lingzhi Zhang, Tarmily Wen, Jianbo Shi: "*Deep Image Blending.*" WACV (2020) [[pdf]](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Deep_Image_Blending_WACV_2020_paper.pdf) [[arXiv]](https://arxiv.org/pdf/1910.11495.pdf) [[code]](https://github.com/owenzlz/DeepImageBlending)
-+ Huikai Wu, Shuai Zheng, Junge Zhang, Kaiqi Huang: "*GP-GAN: Towards Realistic High-Resolution Image Blending.*" ACM MM (2019) [[arXiv]](https://arxiv.org/pdf/1703.07195.pdf) [[code]](https://github.com/wuhuikai/GP-GAN)
-+  Yazhou Xing, Yu Li, Xintao Wang, Ye Zhu, Qifeng Chen: "*Composite photograph harmonization with complete background cues.*" ACM MM (2022) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548031) [[code]](https://github.com/bcmi/Learnable_Image_Blending)
-
+  &emsp;  [Awesome-Image-Blending](https://github.com/bcmi/Awesome-Image-Blending)
 
 #### 2. Image Harmonization
   &emsp;  [Awesome-Image-Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization)
@@ -53,11 +49,16 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 #### 8. Foreground Object Search
 
-+ Sijie Zhu, Zhe Lin, Scott Cohen, Jason Kuen, Zhifei Zhang, Chen Chen: "*GALA: Toward Geometry-and-Lighting-Aware Object Search for Compositing.*" arXiv preprint arXiv:2204.00125 (2022) [[arXiv]](https://arxiv.org/pdf/2204.00125.pdf)
++ Sijie Zhu, Zhe Lin, Scott Cohen, Jason Kuen, Zhifei Zhang, Chen Chen: "*GALA: Toward Geometry-and-Lighting-Aware Object Search for Compositing.*" ECCV (2022) [[arXiv]](https://arxiv.org/pdf/2204.00125.pdf)
 + Zongze Wu, Dani Lischinski, Eli Shechtman: "*Fine-grained Foreground Retrieval via Teacher-Student Learning.*" WACV (2021) [[pdf]](https://openaccess.thecvf.com/content/WACV2021/papers/Wu_Fine-Grained_Foreground_Retrieval_via_Teacher-Student_Learning_WACV_2021_paper.pdf)
 + Boren Li, Po-Yu Zhuang, Jian Gu, Mingyang Li, Ping Tan: "*Interpretable Foreground Object Search As Knowledge Distillation.*" ECCV (2020) [[arXiv]](https://arxiv.org/pdf/2007.09867.pdf)
 + Yinan Zhao, Brian Price, Scott Cohen, Danna Gurari: "*Unconstrained foreground object search.*" ICCV (2019) [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Unconstrained_Foreground_Object_Search_ICCV_2019_paper.pdf)
 + Hengshuang Zhao, Xiaohui Shen, Zhe Lin, Kalyan Sunkavalli, Brian Price, Jiaya Jia: "*Compositing-aware image search.*" ECCV (2018) [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hengshuang_Zhao_Compositing-aware_Image_Search_ECCV_2018_paper.pdf)
+
+#### 9. Generative Image Composition
+
++ Binxin Yang, Shuyang Gu, Bo Zhang, Ting Zhang, Xuejin Chen, Xiaoyan Sun, Dong Chen, Fang Wen: "*Paint by Example: Exemplar-based Image Editing with Diffusion Models.*" CVPR (2023) [[arXiv]](https://arxiv.org/pdf/2211.13227.pdf) [[code]](https://arxiv.org/pdf/2211.13227.pdf)
++ Yizhi Song, Zhifei Zhang, Zhe Lin, Scott Cohen, Brian Price, Jianming Zhang, Soo Ye Kim, Daniel Aliaga: "*ObjectStitch: Generative Object Compositing.*" CVPR (2023) [[arXiv]](https://arxiv.org/pdf/2212.00932.pdf)
 
 ## Datasets
 + Datasets for image harmonization [[link]](https://github.com/bcmi/Awesome-Image-Harmonization#Datasets)

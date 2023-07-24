@@ -53,13 +53,12 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 #### 9. Generative Image Composition
 
-+ Binxin Yang, Shuyang Gu, Bo Zhang, Ting Zhang, Xuejin Chen, Xiaoyan Sun, Dong Chen, Fang Wen: "*Paint by Example: Exemplar-based Image Editing with Diffusion Models.*" CVPR (2023) [[arXiv]](https://arxiv.org/pdf/2211.13227.pdf) [[code]](https://arxiv.org/pdf/2211.13227.pdf)
-+ Yizhi Song, Zhifei Zhang, Zhe Lin, Scott Cohen, Brian Price, Jianming Zhang, Soo Ye Kim, Daniel Aliaga: "*ObjectStitch: Generative Object Compositing.*" CVPR (2023) [[arXiv]](https://arxiv.org/pdf/2212.00932.pdf)
+  &emsp;  [Awesome-Generative-Image-Composition](https://github.com/bcmi/Awesome-Generative-Image-Composition) 
 
 ## Datasets
 + Datasets for image harmonization [[link]](https://github.com/bcmi/Awesome-Image-Harmonization#Datasets)
 + Datasets for object shadow generation [[link]](https://github.com/bcmi/Awesome-Object-Shadow-Generation#Datasets)
 + Datasets for object placement [[link]](https://github.com/bcmi/Awesome-Object-Placement#Datasets)
-  
++ Datasets for foreground object search [[link]](https://github.com/bcmi/Awesome-Foreground-Object-Search/tree/main#Datasets)
 
 

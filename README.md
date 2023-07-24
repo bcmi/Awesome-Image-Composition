@@ -49,11 +49,7 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 #### 8. Foreground Object Search
 
-+ Sijie Zhu, Zhe Lin, Scott Cohen, Jason Kuen, Zhifei Zhang, Chen Chen: "*GALA: Toward Geometry-and-Lighting-Aware Object Search for Compositing.*" ECCV (2022) [[arXiv]](https://arxiv.org/pdf/2204.00125.pdf)
-+ Zongze Wu, Dani Lischinski, Eli Shechtman: "*Fine-grained Foreground Retrieval via Teacher-Student Learning.*" WACV (2021) [[pdf]](https://openaccess.thecvf.com/content/WACV2021/papers/Wu_Fine-Grained_Foreground_Retrieval_via_Teacher-Student_Learning_WACV_2021_paper.pdf)
-+ Boren Li, Po-Yu Zhuang, Jian Gu, Mingyang Li, Ping Tan: "*Interpretable Foreground Object Search As Knowledge Distillation.*" ECCV (2020) [[arXiv]](https://arxiv.org/pdf/2007.09867.pdf)
-+ Yinan Zhao, Brian Price, Scott Cohen, Danna Gurari: "*Unconstrained foreground object search.*" ICCV (2019) [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Unconstrained_Foreground_Object_Search_ICCV_2019_paper.pdf)
-+ Hengshuang Zhao, Xiaohui Shen, Zhe Lin, Kalyan Sunkavalli, Brian Price, Jiaya Jia: "*Compositing-aware image search.*" ECCV (2018) [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hengshuang_Zhao_Compositing-aware_Image_Search_ECCV_2018_paper.pdf)
+  &emsp;  [Awesome-Foreground-Object-Search](https://github.com/bcmi/Awesome-Foreground-Object-Search)
 
 #### 9. Generative Image Composition
 

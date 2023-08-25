@@ -40,6 +40,7 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
   &emsp;  [Awesome-Object-Placement](https://github.com/bcmi/Awesome-Object-Placement)
 
 #### 6. Occlusion
++ Zan Li, Wencheng Wang, Fei Hou: "*Image Composition with Depth Registration.*" IJCAI (2023) [[paper]](https://www.ijcai.org/proceedings/2023/0126.pdf)
 + Fangneng Zhan, Jiaxing Huang, Shijian Lu: "*Hierarchy Composition GAN for High-fidelity Image Synthesis.*" Transactions on cybernetics (2021) [[arXiv]](https://arxiv.org/pdf/1905.04693.pdf)
 + Samaneh Azadi, Deepak Pathak, Sayna Ebrahimi, Trevor Darrell: "*Compositional GAN: Learning Image-Conditional Binary Composition.*" IJCV (2020) [[arXiv]](https://arxiv.org/pdf/1807.07560.pdf) [[code]](https://github.com/azadis/CompositionalGAN)
 

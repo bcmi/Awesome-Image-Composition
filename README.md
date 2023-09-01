@@ -62,4 +62,7 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 + Datasets for object placement [[link]](https://github.com/bcmi/Awesome-Object-Placement#Datasets)
 + Datasets for foreground object search [[link]](https://github.com/bcmi/Awesome-Foreground-Object-Search/tree/main#Datasets)
 
+## Evaluation
+
++ [Composite-Image-Evaluation](https://github.com/bcmi/Composite-Image-Evaluation)
 

@@ -1,3 +1,6 @@
+# ![hot](https://bcmi.sjtu.edu.cn/~niuli/images/fire.png) Our lab has released the image composition toolbox [libcom](https://github.com/bcmi/libcom), which integrates all the functions related to image composition. The toolbox would be continuously upgraded. Welcome to visit and try :-)
+---
+
 # Awesome Image Composition  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A curated list of resources including papers, datasets, and relevant links pertaining to image composition.

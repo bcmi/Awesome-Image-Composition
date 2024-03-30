@@ -32,7 +32,7 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
   &emsp;  [Awesome-Object-Shadow-Generation](https://github.com/bcmi/Awesome-Object-Shadow-Generation)
   
 #### 4. Object Reflection Generation
-
++  Daniel Winter, Matan Cohen, Shlomi Fruchter, Yael Pritch, Alex Rav-Acha, Yedid Hoshen: "*ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion.*" arXiv preprint arXiv:2403.18818 (2024) [[arXiv]](https://arxiv.org/pdf/2403.18818.pdf)
 + Shengjie Ma, Qian Shen, Qiming Hou, Zhong Ren, Kun Zhou: "*Neural Compositing for Real-time Augmented Reality Rendering in Low-frequency Lighting Environments.*" Science China Information Sciences (2021) [[pdf]](http://kunzhou.net/2021/NeuralComposite.pdf)
 
 #### 5. Object Placement 
@@ -62,6 +62,8 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 + Datasets for object shadow generation [[link]](https://github.com/bcmi/Awesome-Object-Shadow-Generation#Datasets)
 + Datasets for object placement [[link]](https://github.com/bcmi/Awesome-Object-Placement#Datasets)
 + Datasets for foreground object search [[link]](https://github.com/bcmi/Awesome-Foreground-Object-Search/tree/main#Datasets)
++ Datasets for spatial transformation [[link]](https://github.com/bcmi/Accessory-Try-On-Dataset-STRAT)
++ Datasets for generative image composition [[link]](https://github.com/bcmi/Awesome-Generative-Image-Composition?tab=readme-ov-file#Test-set)
 
 ## Evaluation
 

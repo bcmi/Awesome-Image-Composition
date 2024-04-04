@@ -1,6 +1,6 @@
 # Awesome Image Composition  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-A curated list of resources including papers, datasets, and relevant links pertaining to image composition.
+A curated list of resources including papers, datasets, and relevant links pertaining to image composition (object insertion).
 
 ## Contributing
 

@@ -1,6 +1,10 @@
 # Awesome Image Composition  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-A curated list of resources including papers, datasets, and relevant links pertaining to image composition (object insertion).
+A curated list of resources including papers, datasets, and relevant links pertaining to image composition (object insertion). The goal of image composition is inserting one foreground into a background image to get a realistic composite image, by addressing the inconsistencies (appearance, geometry, and semantic inconsistency) between foreground and background. Generally speaking, image composition could be used to combine the visual elements from different images.
+<div align="center">
+</br>
+<img src="https://raw.githubusercontent.com/bcmi/libcom/main/resources/image_composition_task.gif" width="600" />
+</div>
 
 ## Contributing
 

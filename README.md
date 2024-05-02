@@ -1,6 +1,6 @@
 # Awesome Image Composition  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-A curated list of resources including papers, datasets, and relevant links pertaining to image composition (object insertion). The goal of image composition is inserting one foreground into a background image to get a realistic composite image, by addressing the inconsistencies (appearance, geometry, and semantic inconsistency) between foreground and background. Generally speaking, image composition could be used to combine the visual elements from different images.
+A curated list of resources including papers, datasets, and relevant links pertaining to image composition (object insertion). **The goal of image composition is inserting one foreground into a background image to get a realistic composite image, by addressing the inconsistencies (appearance, geometry, and semantic inconsistency) between foreground and background.** Generally speaking, image composition could be used to combine the visual elements from different images.
 <div align="center">
 </br>
 <img src="https://raw.githubusercontent.com/bcmi/libcom/main/resources/image_composition_task.gif" width="600" />
@@ -23,7 +23,8 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) for image composition and have fun! ![hot](https://bcmi.sjtu.edu.cn/~niuli/images/fire.png)
 
 ## Survey
-+ Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Making Images Real Again: A Comprehensive Survey on Deep Image Composition.*" arXiv preprint arXiv:2106.14490 (2021). [[arXiv]](https://arxiv.org/pdf/2106.14490.pdf)
++ Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Making Images Real Again: A Comprehensive Survey on Deep Image Composition.*" arXiv preprint arXiv:2106.14490 (2021). [[arXiv]](https://arxiv.org/pdf/2106.14490.pdf) [[slides]](https://www.ustcnewly.com/download/Image_composition_tutorial.pdf)
+
 
 ## Toolbox
 We integrate 10+ image composition related functions into [libcom](https://github.com/bcmi/libcom) (the library of image composition), including image blending, standard/painterly image harmonization, shadow generation, object placement, generative composition, quality evaluation, etc. The ultimate goal of this library is solving all the problems related to image composition with simple `import libcom`.  
@@ -45,7 +46,7 @@ We integrate 10+ image composition related functions into [libcom](https://githu
 #### 4. Object Reflection Generation
 +  Daniel Winter, Matan Cohen, Shlomi Fruchter, Yael Pritch, Alex Rav-Acha, Yedid Hoshen: "*ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion.*" arXiv preprint arXiv:2403.18818 (2024) [[arXiv]](https://arxiv.org/pdf/2403.18818.pdf)
 + Shengjie Ma, Qian Shen, Qiming Hou, Zhong Ren, Kun Zhou: "*Neural Compositing for Real-time Augmented Reality Rendering in Low-frequency Lighting Environments.*" Science China Information Sciences (2021) [[pdf]](http://kunzhou.net/2021/NeuralComposite.pdf)
-
+  
 #### 5. Object Placement 
 
   &emsp;  [Awesome-Object-Placement](https://github.com/bcmi/Awesome-Object-Placement)

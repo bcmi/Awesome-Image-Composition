@@ -2,6 +2,8 @@
 
 **We co-founded a startup company [miguo.ai](https://miguocomics.com/), dedicated to accelerating the production of comics and animations using AIGC technology. If you are seeking internship or full-time positions, please feel free to send your resume to hr@miguocomics.com.**
 
+---
+
 A curated list of resources including papers, datasets, and relevant links pertaining to image composition (object insertion). **The goal of image composition is inserting one foreground into a background image to get a realistic composite image, by addressing the inconsistencies (appearance, geometry, and semantic inconsistency) between foreground and background.** Generally speaking, image composition could be used to combine the visual elements from different images.
 <div align="center">
 </br>

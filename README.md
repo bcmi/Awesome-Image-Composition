@@ -1,10 +1,10 @@
 # Awesome Image Composition  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-**We co-founded a startup company [miguo.ai](https://miguocomics.com/), dedicated to accelerating the production of comics and animations using AIGC technology. If you are seeking internship or full-time positions, please feel free to send your resume to hr@miguocomics.com.**
-
----
 
 A curated list of resources including papers, datasets, and relevant links pertaining to image composition (object insertion). **The goal of image composition is inserting one foreground into a background image to get a realistic composite image, by addressing the inconsistencies (appearance, geometry, and semantic inconsistency) between foreground and background.** Generally speaking, image composition could be used to combine the visual elements from different images.
+
+Welcome to follow WeChat public account ["Newly AIGCer"](https://www.ustcnewly.com/blog.html) or Zhihu Column ["Newly CVer"](https://www.zhihu.com/column/c_1333918224900206592) to get the latest information about image composition! 
+
 <div align="center">
 </br>
 <img src="https://raw.githubusercontent.com/bcmi/libcom/main/resources/image_composition_task.gif" width="600" />

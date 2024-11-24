@@ -48,7 +48,8 @@ We integrate 10+ image composition related functions into [libcom](https://githu
   &emsp;  [Awesome-Object-Shadow-Generation](https://github.com/bcmi/Awesome-Object-Shadow-Generation)
   
 #### 4. Object Reflection Generation
-+  Daniel Winter, Matan Cohen, Shlomi Fruchter, Yael Pritch, Alex Rav-Acha, Yedid Hoshen: "*ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion.*" arXiv preprint arXiv:2403.18818 (2024) [[arXiv]](https://arxiv.org/pdf/2403.18818.pdf)
++ Daniel Winter, Matan Cohen, Shlomi Fruchter, Yael Pritch, Alex Rav-Acha, Yedid Hoshen: "*ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion.*"  ECCV (2024) [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09857.pdf)
++ Gemma Canet Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim："*Thinking Outside the BBox: Unconstrained Generative Object Compositing.*" ECCV (2024) [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07965.pdf)
 + Shengjie Ma, Qian Shen, Qiming Hou, Zhong Ren, Kun Zhou: "*Neural Compositing for Real-time Augmented Reality Rendering in Low-frequency Lighting Environments.*" Science China Information Sciences (2021) [[pdf]](http://kunzhou.net/2021/NeuralComposite.pdf)
   
 #### 5. Object Placement 
@@ -62,7 +63,8 @@ We integrate 10+ image composition related functions into [libcom](https://githu
 + Chen-Hsuan Lin, Ersin Yumer, Oliver Wang, Eli Shechtman, Simon Lucey: "*ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing.*" CVPR (2018) [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lin_ST-GAN_Spatial_Transformer_CVPR_2018_paper.pdf) [[code]](https://github.com/chenhsuanlin/spatial-transformer-GAN)
 
 #### 7. Occlusion
-+ Jonghyun Lee, Hansam Cho, Youngjoon Yoo, Seoung Bum Kim, Yonghyun Jeong: "*Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis.*" arXiv preprint arXiv:2401.09048 (2024) [[pdf]](https://arxiv.org/html/2401.09048v1)
++ Lingxiao Li, Kaixiong Gong, Weihong Li, Xili Dai, Tao Chen, Xiaojun Yuan, Xiangyu Yue: "*BIFRÖST: 3D-Aware Image compositing with Language Instructions.*" NeurIPS (2024) [[arXiv]](https://arxiv.org/pdf/2410.19079) [[code]](https://github.com/lingxiao-li/Bifrost)
++ Jonghyun Lee, Hansam Cho, Youngjoon Yoo, Seoung Bum Kim, Yonghyun Jeong: "*Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis.*" ICLR (2024) [[pdf]](https://arxiv.org/html/2401.09048v1) [[code]](https://github.com/tomtom1103/compose-and-conquer)
 + Zan Li, Wencheng Wang, Fei Hou: "*Image Composition with Depth Registration.*" IJCAI (2023) [[paper]](https://www.ijcai.org/proceedings/2023/0126.pdf)
 + Fangneng Zhan, Jiaxing Huang, Shijian Lu: "*Hierarchy Composition GAN for High-fidelity Image Synthesis.*" Transactions on cybernetics (2021) [[arXiv]](https://arxiv.org/pdf/1905.04693.pdf)
 + Samaneh Azadi, Deepak Pathak, Sayna Ebrahimi, Trevor Darrell: "*Compositional GAN: Learning Image-Conditional Binary Composition.*" IJCV (2020) [[arXiv]](https://arxiv.org/pdf/1807.07560.pdf) [[code]](https://github.com/azadis/CompositionalGAN)

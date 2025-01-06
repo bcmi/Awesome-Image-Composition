@@ -89,3 +89,6 @@ We integrate 10+ image composition related functions into [libcom](https://githu
 
 + [Composite-Image-Evaluation](https://github.com/bcmi/Composite-Image-Evaluation)
 
+## Other Resources
++  [Awesome-Object-Insertion](https://bcmi.github.io/Awesome-Object-Insertion)
+

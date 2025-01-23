@@ -53,28 +53,15 @@ We integrate 10+ image composition related functions into [libcom](https://githu
   &emsp;  [Awesome-Object-Placement](https://github.com/bcmi/Awesome-Object-Placement)
 
 #### 6. Perspective Transformation
-+ Junhong Gou, Bo Zhang, Li Niu, Jianfu Zhang, Jianlou Si, Chen Qian, Liqing Zhang: "*Virtual Accessory Try-On via Keypoint Hallucination.*" arXiv preprint arXiv:2310.17131 (2023) [[arXiv]](https://arxiv.org/pdf/2310.17131.pdf)
-+ Bo Zhang, Yue Liu, Kaixin Lu, Li Niu, Liqing Zhang: "*Spatial Transformation for Image Composition via Correspondence Learning.*" arXiv preprint arXiv:2207.02398 (2022) [[arXiv]](https://arxiv.org/pdf/2207.02398.pdf)
-+ Fangneng Zhan, Hongyuan Zhu, Shijian Lu: "*Spatial Fusion GAN for Image Synthesis.*" CVPR (2019) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhan_Spatial_Fusion_GAN_for_Image_Synthesis_CVPR_2019_paper.pdf) 
-+ Chen-Hsuan Lin, Ersin Yumer, Oliver Wang, Eli Shechtman, Simon Lucey: "*ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing.*" CVPR (2018) [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lin_ST-GAN_Spatial_Transformer_CVPR_2018_paper.pdf) [[code]](https://github.com/chenhsuanlin/spatial-transformer-GAN)
+  &emsp;  [Awesome-Perspective-Transformation](https://github.com/bcmi/Awesome-Perspective-Transformation)
 
 #### 7. Occlusion
-+ Lingxiao Li, Kaixiong Gong, Weihong Li, Xili Dai, Tao Chen, Xiaojun Yuan, Xiangyu Yue: "*BIFRÖST: 3D-Aware Image compositing with Language Instructions.*" NeurIPS (2024) [[arXiv]](https://arxiv.org/pdf/2410.19079) [[code]](https://github.com/lingxiao-li/Bifrost)
-+ Jonghyun Lee, Hansam Cho, Youngjoon Yoo, Seoung Bum Kim, Yonghyun Jeong: "*Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis.*" ICLR (2024) [[pdf]](https://arxiv.org/html/2401.09048v1) [[code]](https://github.com/tomtom1103/compose-and-conquer)
-+ Zan Li, Wencheng Wang, Fei Hou: "*Image Composition with Depth Registration.*" IJCAI (2023) [[paper]](https://www.ijcai.org/proceedings/2023/0126.pdf)
-+ Fangneng Zhan, Jiaxing Huang, Shijian Lu: "*Hierarchy Composition GAN for High-fidelity Image Synthesis.*" Transactions on cybernetics (2021) [[arXiv]](https://arxiv.org/pdf/1905.04693.pdf)
-+ Samaneh Azadi, Deepak Pathak, Sayna Ebrahimi, Trevor Darrell: "*Compositional GAN: Learning Image-Conditional Binary Composition.*" IJCV (2020) [[arXiv]](https://arxiv.org/pdf/1807.07560.pdf) [[code]](https://github.com/azadis/CompositionalGAN)
+  &emsp;  [Awesome-Composition-Occlusion](https://github.com/bcmi/Awesome-Composition-Occlusion)
 
-#### 8. Resolution/Sharpness/Noise Discrepancy
-
-+ Jizhizi Li, Jing Zhang, Stephen J.Maybank, Dacheng Tao: "*Bridging Composite and Real: Towards End-to-End Deep Image Matting.*" IJCV (2021) [[pdf]](https://link.springer.com/content/pdf/10.1007/s11263-021-01541-0.pdf) [[code]](https://github.com/JizhiziLi/GFM)
-
-#### 9. Foreground Object Search
-
+#### 8. Foreground Object Search
   &emsp;  [Awesome-Foreground-Object-Search](https://github.com/bcmi/Awesome-Foreground-Object-Search)
 
-#### 10. Generative Image Composition
-
+#### 9. Generative Image Composition
   &emsp;  [Awesome-Generative-Image-Composition](https://github.com/bcmi/Awesome-Generative-Image-Composition) 
 
 ## Datasets

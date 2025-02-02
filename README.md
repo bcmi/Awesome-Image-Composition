@@ -52,8 +52,8 @@ We integrate 10+ image composition related functions into [libcom](https://githu
 #### 5. Object Placement 
   &emsp;  [Awesome-Object-Placement](https://github.com/bcmi/Awesome-Object-Placement)
 
-#### 6. Perspective Transformation
-  &emsp;  [Awesome-Perspective-Transformation](https://github.com/bcmi/Awesome-Perspective-Transformation)
+#### 6. Spatial Transformation
+  &emsp;  [Awesome-Spatial-Transformation](https://github.com/bcmi/Awesome-Spatial-Transformation)
 
 #### 7. Occlusion
   &emsp;  [Awesome-Composition-Occlusion](https://github.com/bcmi/Awesome-Composition-Occlusion)

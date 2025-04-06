@@ -68,9 +68,10 @@ We integrate 10+ image composition related functions into [libcom](https://githu
 + Datasets for image harmonization [[link]](https://github.com/bcmi/Awesome-Image-Harmonization#Datasets)
 + Datasets for object shadow generation [[link]](https://github.com/bcmi/Awesome-Object-Shadow-Generation#Datasets)
 + Datasets for object placement [[link]](https://github.com/bcmi/Awesome-Object-Placement#Datasets)
-+ Datasets for foreground object search [[link]](https://github.com/bcmi/Awesome-Foreground-Object-Search/tree/main#Datasets)
-+ Datasets for perspective transformation [[link]](https://github.com/bcmi/Accessory-Try-On-Dataset-STRAT)
-+ Datasets for generative image composition [[link]](https://github.com/bcmi/Awesome-Generative-Image-Composition?tab=readme-ov-file#Test-set)
++ Datasets for foreground object search [[link]](https://github.com/bcmi/Awesome-Foreground-Object-Search#Datasets)
++ Datasets for perspective transformation [[link]](https://github.com/bcmi/Awesome-Spatial-Transformation#Datasets)
++ Datasets for generative image composition [[link]](https://github.com/bcmi/Awesome-Generative-Image-Composition#Datasets)
+
 
 ## Evaluation
 
